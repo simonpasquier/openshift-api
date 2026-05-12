@@ -1,4 +1,4 @@
-module github.com/openshift/api
+module github.com/simonpasquier/openshift-api
 
 go 1.21
 
